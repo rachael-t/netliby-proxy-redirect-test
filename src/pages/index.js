@@ -170,6 +170,7 @@ const IndexPage = () => {
     </main>
   )
 }
+}
 
 export default IndexPage
 

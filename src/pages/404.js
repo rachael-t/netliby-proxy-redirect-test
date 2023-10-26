@@ -43,6 +43,7 @@ const NotFoundPage = () => {
     </main>
   )
 }
+}
 
 export default NotFoundPage
 
